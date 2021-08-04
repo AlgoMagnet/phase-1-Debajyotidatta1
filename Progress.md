@@ -1,4 +1,4 @@
-## Date(3.08.2021)
+## Date(03.08.2021)
 ### Week plan
 1. finish 7 chapters from ****"let us c"**** book
 2. do documentation
@@ -10,7 +10,7 @@
    
    -[Marshmallow Experiment](https://jamesclear.com/delayed-gratification)
    
-## Date(3.08.2021)
+## Date(04.08.2021)
 1. Emphasis on documentation
 2. Done some questions of functions and recursions
 3. Watched a video of funtions and recursions
