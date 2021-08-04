@@ -8,6 +8,12 @@
   - Their price was $2.7 million, with the caveat that they would maintain ownership of their original restaurant. Kroc borrowed from multiple sources in order to meet the price.
   - The sale left Kroc bitterly angry with the McDonald brothers for keeping the original location. He opened a McDonald’s location across the street from the brothers’ original restaurant, forcing them to rename the original burger joint, which didn’t stay in business much longer.
   - Kroc didn't give the 1% Share that he promised the brothers.
+  
+  
+   ### Important Links
+  - [Trailer](https://www.youtube.com/watch?v=oprJX5BomEc)
+  - [plot](https://www.imdb.com/title/tt4276820/plotsummary)
+  - [Full Movie](https://www.jiocinema.com/watch/movies/the-founder/0/0/00bbf6300ee511ebaaf6db8669ab1f15/0/0)
 
 
 ## The End
