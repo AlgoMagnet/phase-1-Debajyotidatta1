@@ -9,3 +9,8 @@
    -[Caterpillar and Butterfly Story](https://www.itstimetomeditate.org/caterpillar-butterfly-international-story/)
    
    -[Marshmallow Experiment](https://jamesclear.com/delayed-gratification)
+   
+## Date(3.08.2021)
+1. Emphasis on documentation
+2. Done some questions of functions and recursions
+3. Watched a video of funtions and recursions
