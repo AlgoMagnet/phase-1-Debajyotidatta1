@@ -7,9 +7,9 @@
 - ****Dry-Running Recursive Procedures****
     -  Label the program with line numbers - it will help you keep track of where you are within the program.
     -  Make sure that you understand the way that the elements in the table are referenced.
-- Learnt to a problem to print 1 to 5 using Recursion or upto n numbers or printing n numbers in reverse order.
+- Learnt a problem to print 1 to 5 using Recursion or upto n numbers or printing n numbers in reverse order.
     - by taking into consideration f(n) is actually f(n-1) and n.
-- Another problem: Print 1 to 5 and 5 to again return to 1.   
+- Another problem: Print (5,4,3,2,1,2,3,4,5,) using recursion.   
   
   ****Useful link**** :[Recursion 1](https://www.youtube.com/watch?v=TZR6tMs4vmQ)
     
