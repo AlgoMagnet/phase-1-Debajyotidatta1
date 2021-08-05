@@ -14,3 +14,6 @@
 1. Emphasis on documentation
 2. Done some questions of functions and recursions
 3. Watched a video of funtions and recursions
+
+## Date(05.08.2021)
+ - watched 4 videos of recursion and documented them.
