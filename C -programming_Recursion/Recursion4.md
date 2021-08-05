@@ -7,7 +7,7 @@
         -  Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack i.e. a disk can only be moved if it is the uppermost disk on a stack.
         -  No disk may be placed on top of a smaller disk.
    
-   ![image](https://user-images.githubusercontent.com/85121887/128379022-b2ac37ad-11aa-4cbe-af0f-8fd82fd4448f.png)
+   ![image](https://user-images.githubusercontent.com/85121887/128380164-1dd9be89-a9be-450f-b57f-dfae6caedccf.png)
    
    -  Useful link: 
      
