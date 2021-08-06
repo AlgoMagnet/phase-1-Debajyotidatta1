@@ -12,7 +12,7 @@
   - Evaluation session - green card(2 mins), yellow card(2.5 mins), red card(3 mins).
  ### Speech Conduction
  - Members are required to prepare 5-7 mins of speech on their topic.
- - For 1 to 2 mins each member will at a time.
+ - For 1 to 2 mins each member will speak at a time.
  - Then evaluaters evaluate and give suggestions.
  - At last winner of the best speaker is given.
  - There are AH counter and grammarian who check the repetiton of words and any grammatical mistakes respectively.
