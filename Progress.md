@@ -17,3 +17,8 @@
 
 ## Date(05.08.2021)
  - watched 4 videos of recursion and documented them.
+
+## Date(06.08.2021)
+1. learnt about the role of president and other particular positions in a community or a club.
+2. Learnt about the importance of communication and how to improve it.
+3. Documented about a Toastmasters Session.
