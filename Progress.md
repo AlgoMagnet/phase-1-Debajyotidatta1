@@ -22,3 +22,7 @@
 1. learnt about the role of president and other particular positions in a community or a club.
 2. Learnt about the importance of communication and how to improve it.
 3. Documented about a Toastmasters Session.
+
+## Date(07.08.2021)
+- Participated in a Demo Toastmasters Session as a Timer.
+- [Record](https://github.com/cleanhand/phase-1-Debajyotidatta1/blob/main/Demo%20Toastmasters%20Session%201.md)
